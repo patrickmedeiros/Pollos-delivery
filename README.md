@@ -1,7 +1,4 @@
-# Pollos-delivery
-Os pollos que você conhece agora em todo lugar. :D
-
-<h1>Los Pollos Hermanos</h1>
+<h1>Los Pollos Hermanos Delivery</h1>
 <h2>Objetivos</h2>
 <h5>Facilitar a venda de combos para os Los Pollos Hermanos, na qual tem o melhor frango de Albuquerque e atende uma grande demanda de clientes.
   Agora com o delivery você pode pedir seus combos em qualquer lugar.</h5>
