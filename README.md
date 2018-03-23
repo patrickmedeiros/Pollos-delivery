@@ -26,3 +26,6 @@ Tendo como objetivo o atual projeto será de um site que irá facilitar o monito
   <li>RNF04 - Interface deve ser fácil entendimento para o usuário</li>
   <li>RNF05 - Tempo de resposta desejável menor que 5 segundos para pedidos e cadastros</li>
 </ul>
+<h2>Diagrama de classes</h2>
+
+![pollos delivery](https://user-images.githubusercontent.com/34414598/37856423-296805f0-2ed3-11e8-8fb2-db55df6f7f10.jpg)
