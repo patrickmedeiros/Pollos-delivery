@@ -2,7 +2,7 @@
 <h2>Resumo</h2>
 <h5>
 Nos dias de hoje, diversas áreas exploram o uso da tecnologia em suas atividades, seja pela praticidade ou agilidade ou até mesmo pela flexibilidade que proporciona para os usuários que a usufruem. Entregas de lanches crescem cada vez mais com a abertura de novos estabelecimentos.
-Tendo como objetivo o atual projeto será de um site que irá facilitar o monitoramento e gerenciamento de pedidos de vários estbelecimentos.</h5>
+Tendo como objetivo o atual projeto será de um site que irá facilitar o monitoramento e gerenciamento de pedidos de vários estabelecimentos.</h5>
 <h2>Tecnologias</h2>
 <ul>
   <li><b>Linguagem/Framework(back-end) - </b>Spring/Java</li>
