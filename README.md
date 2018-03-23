@@ -5,8 +5,8 @@ Nos dias de hoje, diversas áreas exploram o uso da tecnologia em suas atividade
 Tendo como objetivo o atual projeto será de um site que irá facilitar o monitoramento e gerenciamento de pedidos de vários estbelecimentos.</h5>
 <h2>Tecnologias</h2>
 <ul>
-  <li><b>Linguagem/Framework(back-end)</b>Spring/Java</li>
-  <li><b>Linguagem/Framework(front-end)</b>HTML, bootstrap,Javascript e Angular</li>
+  <li><b>Linguagem/Framework(back-end) - </b>Spring/Java</li>
+  <li><b>Linguagem/Framework(front-end) - </b>HTML, bootstrap,Javascript e Angular</li>
 </ul>
 <h2>Análise de requisitos</h2>
 <h2>Requisitos funcionais:</h2>
